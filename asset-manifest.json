@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/infinity-x-/static/css/main.dbb445c8.css",
+    "main.js": "/infinity-x-/static/js/main.7da1deed.js",
+    "static/js/453.93ff6d0f.chunk.js": "/infinity-x-/static/js/453.93ff6d0f.chunk.js",
+    "static/media/search2.gif": "/infinity-x-/static/media/search2.9bee39f7404e4df8e230.gif",
+    "static/media/refresh2.gif": "/infinity-x-/static/media/refresh2.db2e1542ac656e366873.gif",
+    "static/media/infinityx.png": "/infinity-x-/static/media/infinityx.b876ff61cec05ba3d0b2.png",
+    "static/media/infinityERP.png": "/infinity-x-/static/media/infinityERP.361f9245cf3b5b846533.png",
+    "static/media/logo.png": "/infinity-x-/static/media/logo.ec616eab450a3a0303ea.png",
+    "index.html": "/infinity-x-/index.html",
+    "main.dbb445c8.css.map": "/infinity-x-/static/css/main.dbb445c8.css.map",
+    "main.7da1deed.js.map": "/infinity-x-/static/js/main.7da1deed.js.map",
+    "453.93ff6d0f.chunk.js.map": "/infinity-x-/static/js/453.93ff6d0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb445c8.css",
+    "static/js/main.7da1deed.js"
+  ]
+}
